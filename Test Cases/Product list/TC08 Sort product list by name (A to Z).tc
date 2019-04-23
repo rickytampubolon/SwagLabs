@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 Sort product list by name (A to Z)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acc7ea77-5a2b-4321-a853-67f3041da296</testCaseGuid>
+</TestCaseEntity>

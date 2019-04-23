@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21 Checkout without items in cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9dd1f83e-5be3-493b-81f8-01b4fd3a099d</testCaseGuid>
+</TestCaseEntity>

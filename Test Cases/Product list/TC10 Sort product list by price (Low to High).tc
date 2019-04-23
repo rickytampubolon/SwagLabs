@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 Sort product list by price (Low to High)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa5338f-13db-49e9-aa17-cb9072db90dc</testCaseGuid>
+</TestCaseEntity>
