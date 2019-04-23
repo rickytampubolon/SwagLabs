@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user</name>
    <tag></tag>
-   <elementGuidId>fbe7a75e-b9dd-4e33-89be-73ed25839cf5</elementGuidId>
+   <elementGuidId>476d5f0b-47cc-41fc-8a77-5ea7d10723c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

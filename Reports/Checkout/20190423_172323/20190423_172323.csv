@@ -1,0 +1,123 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Checkout,Firefox 65.0,,2019-04-23 17:23:34,2019-04-23 17:27:02,3m - 28.830s,PASSED
+,,,,,,
+Test Cases/Checkout/TC12 Click button add to chart in product list,Firefox 65.0,,2019-04-23 17:23:34,2019-04-23 17:24:05,30.753s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:23:34,2019-04-23 17:23:38,3.743s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:23:38,2019-04-23 17:23:43,5.154s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC12/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 17:23:43,2019-04-23 17:23:43,0.250s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC12/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:23:43,2019-04-23 17:23:43,0.067s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC12/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 17:23:43,2019-04-23 17:23:43,0.227s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC12/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:23:43,2019-04-23 17:23:44,0.085s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC12/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 17:23:44,2019-04-23 17:24:04,20.769s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC12/Page_Swag Labs/button_ADD TO CART""))",Firefox 65.0,,2019-04-23 17:24:04,2019-04-23 17:24:05,0.242s,PASSED
+,,,,,,
+Test Cases/Checkout/TC13 View cart list,Firefox 65.0,,2019-04-23 17:24:05,2019-04-23 17:24:27,22.215s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:24:05,2019-04-23 17:24:09,4.751s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:24:09,2019-04-23 17:24:13,3.667s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC13/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 17:24:13,2019-04-23 17:24:13,0.227s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC13/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:24:13,2019-04-23 17:24:13,0.052s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC13/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 17:24:13,2019-04-23 17:24:14,0.226s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC13/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:24:14,2019-04-23 17:24:14,0.044s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC13/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 17:24:14,2019-04-23 17:24:26,12.896s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC13/Page_Swag Labs/button_ADD TO CART""))",Firefox 65.0,,2019-04-23 17:24:26,2019-04-23 17:24:27,0.241s,PASSED
+,,,,,,
+Test Cases/Checkout/TC14 View the item details on the cart,Firefox 65.0,,2019-04-23 17:24:27,2019-04-23 17:24:53,26.258s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:24:27,2019-04-23 17:24:32,4.736s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:24:32,2019-04-23 17:24:35,3.267s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)""))",Firefox 65.0,,2019-04-23 17:24:35,2019-04-23 17:24:35,0.227s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:24:35,2019-04-23 17:24:35,0.054s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/div_Password for all users                secret_sauce (1)""))",Firefox 65.0,,2019-04-23 17:24:35,2019-04-23 17:24:35,0.226s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:24:35,2019-04-23 17:24:35,0.039s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)""))",Firefox 65.0,,2019-04-23 17:24:35,2019-04-23 17:24:52,17.051s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/button_ADD TO CART (1)""))",Firefox 65.0,,2019-04-23 17:24:52,2019-04-23 17:24:53,0.237s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC14/Page_Swag Labs/div_Sauce Labs Backpack""))",Firefox 65.0,,2019-04-23 17:24:53,2019-04-23 17:24:53,0.319s,PASSED
+,,,,,,
+Test Cases/Checkout/TC15 Remove items on the cart,Firefox 65.0,,2019-04-23 17:24:53,2019-04-23 17:25:15,21.886s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:24:53,2019-04-23 17:24:57,4.182s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:24:57,2019-04-23 17:25:01,3.845s,PASSED
+"click(findTestObject(""Checkout/TC15/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 17:25:01,2019-04-23 17:25:01,0.233s,PASSED
+"setText(findTestObject(""Checkout/TC15/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:25:01,2019-04-23 17:25:01,0.055s,PASSED
+"click(findTestObject(""Checkout/TC15/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 17:25:01,2019-04-23 17:25:02,0.223s,PASSED
+"setEncryptedText(findTestObject(""Checkout/TC15/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:25:02,2019-04-23 17:25:02,0.042s,PASSED
+"click(findTestObject(""Checkout/TC15/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 17:25:02,2019-04-23 17:25:14,12.370s,PASSED
+"click(findTestObject(""Checkout/TC15/Page_Swag Labs/button_ADD TO CART""))",Firefox 65.0,,2019-04-23 17:25:14,2019-04-23 17:25:14,0.239s,PASSED
+"click(findTestObject(""Checkout/TC15/Page_Swag Labs/div_Sauce Labs Backpack""))",Firefox 65.0,,2019-04-23 17:25:14,2019-04-23 17:25:15,0.354s,PASSED
+"click(findTestObject(""Checkout/TC15/Page_Swag Labs/button_REMOVE""))",Firefox 65.0,,2019-04-23 17:25:15,2019-04-23 17:25:15,0.232s,PASSED
+,,,,,,
+Test Cases/Checkout/TC16 Click button checkout,Firefox 65.0,,2019-04-23 17:25:15,2019-04-23 17:25:41,25.904s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:25:15,2019-04-23 17:25:19,4.503s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:25:19,2019-04-23 17:25:24,4.024s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 17:25:24,2019-04-23 17:25:24,0.224s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:25:24,2019-04-23 17:25:24,0.057s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 17:25:24,2019-04-23 17:25:24,0.223s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:25:24,2019-04-23 17:25:24,0.044s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 17:25:24,2019-04-23 17:25:40,15.827s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/button_ADD TO CART""))",Firefox 65.0,,2019-04-23 17:25:40,2019-04-23 17:25:40,0.237s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/span_1""))",Firefox 65.0,,2019-04-23 17:25:40,2019-04-23 17:25:40,0.343s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC16/Page_Swag Labs/a_CHECKOUT""))",Firefox 65.0,,2019-04-23 17:25:40,2019-04-23 17:25:41,0.323s,PASSED
+,,,,,,
+Test Cases/Checkout/TC17 Input complete buyer data,Firefox 65.0,,2019-04-23 17:25:41,2019-04-23 17:25:52,10.831s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:25:41,2019-04-23 17:25:45,4.523s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:25:45,2019-04-23 17:25:48,3.037s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)""))",Firefox 65.0,,2019-04-23 17:25:48,2019-04-23 17:25:49,0.225s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:25:49,2019-04-23 17:25:49,0.055s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/div_Password for all users                secret_sauce (1)""))",Firefox 65.0,,2019-04-23 17:25:49,2019-04-23 17:25:49,0.223s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:25:49,2019-04-23 17:25:49,0.039s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)""))",Firefox 65.0,,2019-04-23 17:25:49,2019-04-23 17:25:50,1.375s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/button_ADD TO CART (1)""))",Firefox 65.0,,2019-04-23 17:25:50,2019-04-23 17:25:51,0.228s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/cart.html"")",Firefox 65.0,,2019-04-23 17:25:51,2019-04-23 17:25:51,0.290s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/a_CHECKOUT""))",Firefox 65.0,,2019-04-23 17:25:51,2019-04-23 17:25:51,0.303s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_Checkout Your Information_first-name""), ""Ricky"")",Firefox 65.0,,2019-04-23 17:25:51,2019-04-23 17:25:51,0.049s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_Checkout Your Information_last-name""), ""Halomoan"")",Firefox 65.0,,2019-04-23 17:25:51,2019-04-23 17:25:51,0.045s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_Checkout Your Information_postal-code""), ""22345"")",Firefox 65.0,,2019-04-23 17:25:51,2019-04-23 17:25:51,0.035s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC17/Page_Swag Labs/input_CANCEL_btn_primary cart_button""))",Firefox 65.0,,2019-04-23 17:25:51,2019-04-23 17:25:52,0.291s,PASSED
+,,,,,,
+Test Cases/Checkout/TC18 Input uncomplete buyer data,Firefox 65.0,,2019-04-23 17:25:52,2019-04-23 17:26:19,27.393s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:25:52,2019-04-23 17:25:56,4.738s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:25:56,2019-04-23 17:26:01,4.457s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)""))",Firefox 65.0,,2019-04-23 17:26:01,2019-04-23 17:26:01,0.227s,PASSED
+"setText(findTestObject(""Checkout/TC18/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:26:01,2019-04-23 17:26:01,0.053s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/div_Password for all users                secret_sauce (1)""))",Firefox 65.0,,2019-04-23 17:26:01,2019-04-23 17:26:01,0.223s,PASSED
+"setEncryptedText(findTestObject(""Checkout/TC18/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:26:01,2019-04-23 17:26:01,0.041s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)""))",Firefox 65.0,,2019-04-23 17:26:01,2019-04-23 17:26:18,16.144s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/button_ADD TO CART (1)""))",Firefox 65.0,,2019-04-23 17:26:18,2019-04-23 17:26:18,0.237s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/cart.html"")",Firefox 65.0,,2019-04-23 17:26:18,2019-04-23 17:26:18,0.301s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/a_CHECKOUT""))",Firefox 65.0,,2019-04-23 17:26:18,2019-04-23 17:26:18,0.306s,PASSED
+"setText(findTestObject(""Checkout/TC18/Page_Swag Labs/input_Checkout Your Information_first-name""), ""Ricky"")",Firefox 65.0,,2019-04-23 17:26:18,2019-04-23 17:26:19,0.052s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/input_CANCEL_btn_primary cart_button""))",Firefox 65.0,,2019-04-23 17:26:19,2019-04-23 17:26:19,0.225s,PASSED
+"setText(findTestObject(""Checkout/TC18/Page_Swag Labs/input_Checkout Your Information_first-name""), ""Ricky"")",Firefox 65.0,,2019-04-23 17:26:19,2019-04-23 17:26:19,0.046s,PASSED
+"click(findTestObject(""Checkout/TC18/Page_Swag Labs/input_CANCEL_btn_primary cart_button""))",Firefox 65.0,,2019-04-23 17:26:19,2019-04-23 17:26:19,0.221s,PASSED
+,,,,,,
+Test Cases/Checkout/TC19 Finish checkout,Firefox 65.0,,2019-04-23 17:26:19,2019-04-23 17:26:34,15.182s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:26:19,2019-04-23 17:26:24,4.727s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:26:24,2019-04-23 17:26:27,3.355s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)""))",Firefox 65.0,,2019-04-23 17:26:27,2019-04-23 17:26:27,0.224s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:26:27,2019-04-23 17:26:27,0.050s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/div_Password for all users                secret_sauce (1)""))",Firefox 65.0,,2019-04-23 17:26:27,2019-04-23 17:26:28,0.217s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:26:28,2019-04-23 17:26:28,0.040s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)""))",Firefox 65.0,,2019-04-23 17:26:28,2019-04-23 17:26:32,4.556s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/button_ADD TO CART (1)""))",Firefox 65.0,,2019-04-23 17:26:32,2019-04-23 17:26:33,0.241s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/cart.html"")",Firefox 65.0,,2019-04-23 17:26:33,2019-04-23 17:26:33,0.308s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/a_CHECKOUT""))",Firefox 65.0,,2019-04-23 17:26:33,2019-04-23 17:26:33,0.310s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_Checkout Your Information_first-name""), ""Ricky "")",Firefox 65.0,,2019-04-23 17:26:33,2019-04-23 17:26:33,0.044s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_Checkout Your Information_last-name""), ""Halomoan"")",Firefox 65.0,,2019-04-23 17:26:33,2019-04-23 17:26:33,0.050s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_Checkout Your Information_postal-code""), ""22381"")",Firefox 65.0,,2019-04-23 17:26:33,2019-04-23 17:26:33,0.036s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/input_CANCEL_btn_primary cart_button""))",Firefox 65.0,,2019-04-23 17:26:33,2019-04-23 17:26:34,0.300s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC19/Page_Swag Labs/a_FINISH""))",Firefox 65.0,,2019-04-23 17:26:34,2019-04-23 17:26:34,0.614s,PASSED
+,,,,,,
+Test Cases/Checkout/TC20 Cancel checkout,Firefox 65.0,,2019-04-23 17:26:34,2019-04-23 17:27:01,26.993s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 17:26:34,2019-04-23 17:26:39,4.595s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 17:26:39,2019-04-23 17:26:42,3.588s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)""))",Firefox 65.0,,2019-04-23 17:26:42,2019-04-23 17:26:43,0.223s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)""), ""standard_user"")",Firefox 65.0,,2019-04-23 17:26:43,2019-04-23 17:26:43,0.055s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/div_Password for all users                secret_sauce (1)""))",Firefox 65.0,,2019-04-23 17:26:43,2019-04-23 17:26:43,0.223s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 17:26:43,2019-04-23 17:26:43,0.040s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)""))",Firefox 65.0,,2019-04-23 17:26:43,2019-04-23 17:27:00,16.792s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/button_ADD TO CART (1)""))",Firefox 65.0,,2019-04-23 17:27:00,2019-04-23 17:27:00,0.239s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/cart.html"")",Firefox 65.0,,2019-04-23 17:27:00,2019-04-23 17:27:00,0.291s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/a_CHECKOUT""))",Firefox 65.0,,2019-04-23 17:27:00,2019-04-23 17:27:01,0.311s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_Checkout Your Information_first-name""), ""Ricky"")",Firefox 65.0,,2019-04-23 17:27:01,2019-04-23 17:27:01,0.047s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_Checkout Your Information_last-name""), ""Halomoan"")",Firefox 65.0,,2019-04-23 17:27:01,2019-04-23 17:27:01,0.047s,PASSED
+"setText(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_Checkout Your Information_postal-code""), ""22381"")",Firefox 65.0,,2019-04-23 17:27:01,2019-04-23 17:27:01,0.039s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/input_CANCEL_btn_primary cart_button""))",Firefox 65.0,,2019-04-23 17:27:01,2019-04-23 17:27:01,0.294s,PASSED
+"click(findTestObject(""Object Repository/Checkout/TC20/Page_Swag Labs/a_CANCEL""))",Firefox 65.0,,2019-04-23 17:27:01,2019-04-23 17:27:01,0.107s,PASSED

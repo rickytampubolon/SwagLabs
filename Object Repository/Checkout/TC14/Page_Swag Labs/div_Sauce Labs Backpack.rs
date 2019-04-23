@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Sauce Labs Backpack</name>
    <tag></tag>
-   <elementGuidId>1a00a1f5-3bb8-4f45-bd74-524c7f30ef9d</elementGuidId>
+   <elementGuidId>cf6cf91f-256d-44d8-82a8-da733ac4a4c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

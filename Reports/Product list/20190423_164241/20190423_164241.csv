@@ -1,0 +1,63 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Product list,Firefox 65.0,,2019-04-23 16:42:51,2019-04-23 16:45:01,2m - 10.351s,PASSED
+,,,,,,
+Test Cases/Product list/TC05 View product list,Firefox 65.0,,2019-04-23 16:42:51,2019-04-23 16:43:19,27.652s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:42:51,2019-04-23 16:42:56,4.313s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:42:56,2019-04-23 16:43:01,4.779s,PASSED
+"setText(findTestObject(""Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:43:01,2019-04-23 16:43:01,0.092s,PASSED
+"setEncryptedText(findTestObject(""Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:43:01,2019-04-23 16:43:01,0.089s,PASSED
+"click(findTestObject(""Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action""))",Firefox 65.0,,2019-04-23 16:43:01,2019-04-23 16:43:19,18.148s,PASSED
+,,,,,,
+Test Cases/Product list/TC06 View product detail,Firefox 65.0,,2019-04-23 16:43:19,2019-04-23 16:43:45,26.349s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:43:19,2019-04-23 16:43:24,4.653s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:43:24,2019-04-23 16:43:28,4.626s,PASSED
+"setText(findTestObject(""Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:43:28,2019-04-23 16:43:28,0.060s,PASSED
+"setEncryptedText(findTestObject(""Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:43:28,2019-04-23 16:43:28,0.052s,PASSED
+"click(findTestObject(""Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:43:28,2019-04-23 16:43:45,16.497s,PASSED
+"click(findTestObject(""Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack""))",Firefox 65.0,,2019-04-23 16:43:45,2019-04-23 16:43:45,0.348s,PASSED
+,,,,,,
+Test Cases/Product list/TC07 Tap back in product detail page,Firefox 65.0,,2019-04-23 16:43:45,2019-04-23 16:43:54,9.253s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:43:45,2019-04-23 16:43:49,3.910s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:43:49,2019-04-23 16:43:52,3.072s,PASSED
+"setText(findTestObject(""Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:43:52,2019-04-23 16:43:52,0.061s,PASSED
+"setEncryptedText(findTestObject(""Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:43:52,2019-04-23 16:43:52,0.047s,PASSED
+"click(findTestObject(""Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:43:52,2019-04-23 16:43:54,1.679s,PASSED
+"click(findTestObject(""Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack""))",Firefox 65.0,,2019-04-23 16:43:54,2019-04-23 16:43:54,0.301s,PASSED
+"click(findTestObject(""Product list/TC07/Page_Swag Labs/button_- Back""))",Firefox 65.0,,2019-04-23 16:43:54,2019-04-23 16:43:54,0.088s,PASSED
+,,,,,,
+Test Cases/Product list/TC08 Sort product list by name (A to Z),Firefox 65.0,,2019-04-23 16:43:54,2019-04-23 16:44:22,27.092s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:43:55,2019-04-23 16:43:59,4.716s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:43:59,2019-04-23 16:44:04,4.284s,PASSED
+"setText(findTestObject(""Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:44:04,2019-04-23 16:44:04,0.060s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:44:04,2019-04-23 16:44:04,0.043s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:44:04,2019-04-23 16:44:22,17.892s,PASSED
+,,,,,,
+Test Cases/Product list/TC09 Sort product list by name (Z to A),Firefox 65.0,,2019-04-23 16:44:22,2019-04-23 16:44:32,10.162s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:44:22,2019-04-23 16:44:26,4.681s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:44:26,2019-04-23 16:44:29,2.687s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 16:44:29,2019-04-23 16:44:29,0.231s,PASSED
+"setText(findTestObject(""Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:44:29,2019-04-23 16:44:29,0.057s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 16:44:29,2019-04-23 16:44:30,0.222s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:44:30,2019-04-23 16:44:30,0.042s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:44:30,2019-04-23 16:44:31,1.821s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)""), ""za"", true)",Firefox 65.0,,2019-04-23 16:44:31,2019-04-23 16:44:32,0.318s,PASSED
+,,,,,,
+Test Cases/Product list/TC10 Sort product list by price (Low to High),Firefox 65.0,,2019-04-23 16:44:32,2019-04-23 16:44:42,10.155s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:44:32,2019-04-23 16:44:36,4.514s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:44:36,2019-04-23 16:44:39,3.146s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 16:44:39,2019-04-23 16:44:40,0.224s,PASSED
+"setText(findTestObject(""Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:44:40,2019-04-23 16:44:40,0.066s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 16:44:40,2019-04-23 16:44:40,0.221s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:44:40,2019-04-23 16:44:40,0.046s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:44:40,2019-04-23 16:44:42,1.513s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)""), ""lohi"", true)",Firefox 65.0,,2019-04-23 16:44:42,2019-04-23 16:44:42,0.337s,PASSED
+,,,,,,
+Test Cases/Product list/TC11 Sort product list by price (High to Low),Firefox 65.0,,2019-04-23 16:44:42,2019-04-23 16:45:00,18.416s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:44:42,2019-04-23 16:44:47,5.342s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:44:47,2019-04-23 16:44:50,2.852s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user""))",Firefox 65.0,,2019-04-23 16:44:50,2019-04-23 16:44:50,0.225s,PASSED
+"setText(findTestObject(""Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:44:50,2019-04-23 16:44:50,0.059s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce""))",Firefox 65.0,,2019-04-23 16:44:50,2019-04-23 16:44:51,0.222s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:44:51,2019-04-23 16:44:51,0.042s,PASSED
+"click(findTestObject(""Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:44:51,2019-04-23 16:45:00,9.209s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)""), ""hilo"", true)",Firefox 65.0,,2019-04-23 16:45:00,2019-04-23 16:45:00,0.355s,PASSED

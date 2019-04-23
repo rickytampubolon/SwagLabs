@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Product list" time="130" tests="7" failures="0" errors="0">
+   <testsuite name="Product list" tests="7" failures="0" errors="0" time="130" timestamp="2019-04-23 16:42:51" hostname="User - 192.168.170.2" id="Test Suites/Product list">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\Katalon Studio\\SwagLabs\\Reports\\Product list\\20190423_164241"/>
+         <property name="logFiles" value="C:\\Users\\User\\Katalon Studio\\SwagLabs\\Reports\\Product list\\20190423_164241\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - 192.168.170.2"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.0.5.4"/>
+         <property name="browser" value="Firefox 65.0"/>
+         <property name="hostAddress" value="192.168.170.2"/>
+         <property name="sessionId" value="572ee05e-2706-4c9d-bf21-3d09929148f0"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Product list/TC05 View product list" classname="Test Cases/Product list/TC05 View product list" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:42:51 - [TEST_CASE][PASSED] - Test Cases/Product list/TC05 View product list: Test Cases/Product list/TC05 View product list
+
+2019-04-23 16:42:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:42:52 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:42:52 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-23 16:42:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:42:56 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:43:01 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:43:01 - [TEST_STEP][PASSED] - setText(findTestObject("Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name'
+
+2019-04-23 16:43:01 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name'
+
+2019-04-23 16:43:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password'
+
+2019-04-23 16:43:01 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password'
+
+2019-04-23 16:43:01 - [TEST_STEP][PASSED] - click(findTestObject("Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action")): Object: 'Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action' is clicked on
+
+2019-04-23 16:43:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product list/TC06 View product detail" classname="Test Cases/Product list/TC06 View product detail" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:43:19 - [TEST_CASE][PASSED] - Test Cases/Product list/TC06 View product detail: Test Cases/Product list/TC06 View product detail
+
+2019-04-23 16:43:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:43:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-23 16:43:20 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:43:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:43:24 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:43:28 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:43:28 - [TEST_STEP][PASSED] - setText(findTestObject("Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:43:28 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:43:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:43:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:43:28 - [TEST_STEP][PASSED] - click(findTestObject("Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action")): Object: 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:43:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:43:45 - [TEST_STEP][PASSED] - click(findTestObject("Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack")): Object: 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack' is clicked on
+
+2019-04-23 16:43:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product list/TC07 Tap back in product detail page" classname="Test Cases/Product list/TC07 Tap back in product detail page" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:43:45 - [TEST_CASE][PASSED] - Test Cases/Product list/TC07 Tap back in product detail page: Test Cases/Product list/TC07 Tap back in product detail page
+
+2019-04-23 16:43:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:43:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-23 16:43:46 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:43:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:43:49 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:43:52 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:43:52 - [TEST_STEP][PASSED] - setText(findTestObject("Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:43:52 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:43:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:43:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:43:52 - [TEST_STEP][PASSED] - click(findTestObject("Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action")): Object: 'Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:43:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:43:54 - [TEST_STEP][PASSED] - click(findTestObject("Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack")): Object: 'Object Repository/Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack' is clicked on
+
+2019-04-23 16:43:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack' is clicked on
+
+2019-04-23 16:43:54 - [TEST_STEP][PASSED] - click(findTestObject("Product list/TC07/Page_Swag Labs/button_- Back")): Object: 'Object Repository/Product list/TC07/Page_Swag Labs/button_- Back' is clicked on
+
+2019-04-23 16:43:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC07/Page_Swag Labs/button_- Back' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product list/TC08 Sort product list by name (A to Z)" classname="Test Cases/Product list/TC08 Sort product list by name (A to Z)" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:43:54 - [TEST_CASE][PASSED] - Test Cases/Product list/TC08 Sort product list by name (A to Z): Test Cases/Product list/TC08 Sort product list by name (A to Z)
+
+2019-04-23 16:43:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:43:55 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-23 16:43:56 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:43:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:43:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:04 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:04 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action")): Object: 'Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:44:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product list/TC09 Sort product list by name (Z to A)" classname="Test Cases/Product list/TC09 Sort product list by name (Z to A)" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:44:22 - [TEST_CASE][PASSED] - Test Cases/Product list/TC09 Sort product list by name (Z to A): Test Cases/Product list/TC09 Sort product list by name (Z to A)
+
+2019-04-23 16:44:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:44:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-23 16:44:23 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:44:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:44:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:29 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user")): Object: 'Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user' is clicked on
+
+2019-04-23 16:44:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user' is clicked on
+
+2019-04-23 16:44:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:29 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce")): Object: 'Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce' is clicked on
+
+2019-04-23 16:44:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce' is clicked on
+
+2019-04-23 16:44:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action")): Object: 'Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:44:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:44:31 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)"), "za", true): All options with value 'za' are selected in object 'Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)'  using regular expression
+
+2019-04-23 16:44:32 - [MESSAGE][PASSED] - All options with value 'za' are selected in object 'Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)'  using regular expression]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product list/TC10 Sort product list by price (Low to High)" classname="Test Cases/Product list/TC10 Sort product list by price (Low to High)" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:44:32 - [TEST_CASE][PASSED] - Test Cases/Product list/TC10 Sort product list by price (Low to High): Test Cases/Product list/TC10 Sort product list by price (Low to High)
+
+2019-04-23 16:44:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:44:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-23 16:44:33 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:44:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:44:36 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:39 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user")): Object: 'Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user' is clicked on
+
+2019-04-23 16:44:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user' is clicked on
+
+2019-04-23 16:44:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:40 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce")): Object: 'Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce' is clicked on
+
+2019-04-23 16:44:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce' is clicked on
+
+2019-04-23 16:44:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action")): Object: 'Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:44:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:44:42 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)"), "lohi", true): All options with value 'lohi' are selected in object 'Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)'  using regular expression
+
+2019-04-23 16:44:42 - [MESSAGE][PASSED] - All options with value 'lohi' are selected in object 'Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)'  using regular expression]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product list/TC11 Sort product list by price (High to Low)" classname="Test Cases/Product list/TC11 Sort product list by price (High to Low)" status="PASSED">
+         <system-out><![CDATA[2019-04-23 16:44:42 - [TEST_CASE][PASSED] - Test Cases/Product list/TC11 Sort product list by price (High to Low): Test Cases/Product list/TC11 Sort product list by price (High to Low)
+
+2019-04-23 16:44:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-23 16:44:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-23 16:44:43 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-23 16:44:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-23 16:44:47 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:50 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2019-04-23 16:44:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user")): Object: 'Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user' is clicked on
+
+2019-04-23 16:44:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user' is clicked on
+
+2019-04-23 16:44:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:50 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name'
+
+2019-04-23 16:44:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce")): Object: 'Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce' is clicked on
+
+2019-04-23 16:44:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce' is clicked on
+
+2019-04-23 16:44:51 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password'
+
+2019-04-23 16:44:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action")): Object: 'Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:45:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action' is clicked on
+
+2019-04-23 16:45:00 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)"), "hilo", true): All options with value 'hilo' are selected in object 'Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)'  using regular expression
+
+2019-04-23 16:45:00 - [MESSAGE][PASSED] - All options with value 'hilo' are selected in object 'Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)'  using regular expression]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-23 16:42:51 - [TEST_SUITE][PASSED] - Product list: Test Cases/Product list/TC11 Sort product list by price (High to Low)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

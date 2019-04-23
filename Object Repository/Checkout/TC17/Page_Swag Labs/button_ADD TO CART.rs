@@ -3,7 +3,7 @@
    <description></description>
    <name>button_ADD TO CART</name>
    <tag></tag>
-   <elementGuidId>beb62784-c70c-4e7e-8297-8bca75c06cd7</elementGuidId>
+   <elementGuidId>e66a45e0-4397-4d1d-837d-80fbe525bc0f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

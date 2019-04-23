@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Checkout Your Information_postal-code</name>
    <tag></tag>
-   <elementGuidId>1e36cd21-ee0f-4ec4-b240-d7d2110a74d1</elementGuidId>
+   <elementGuidId>2a2edbb0-31a1-4afd-80e6-48fab931cef1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

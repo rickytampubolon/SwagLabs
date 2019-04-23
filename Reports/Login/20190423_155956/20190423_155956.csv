@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Login,Firefox 65.0,,2019-04-23 16:00:02,2019-04-23 16:00:51,49.228s,PASSED
+,,,,,,
+Test Cases/Login/TC01 Input valid username and valid password,Firefox 65.0,,2019-04-23 16:00:02,2019-04-23 16:00:24,21.989s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:00:02,2019-04-23 16:00:07,4.241s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:00:07,2019-04-23 16:00:11,4.364s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC01/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:00:11,2019-04-23 16:00:11,0.099s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC01/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:00:11,2019-04-23 16:00:11,0.085s,PASSED
+"click(findTestObject(""Object Repository/Login/TC01/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:00:11,2019-04-23 16:00:24,12.974s,PASSED
+,,,,,,
+Test Cases/Login/TC02 Input valid username and invalid password,Firefox 65.0,,2019-04-23 16:00:24,2019-04-23 16:00:32,7.858s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:00:24,2019-04-23 16:00:28,4.058s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:00:28,2019-04-23 16:00:32,3.245s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC02/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""standard_user"")",Firefox 65.0,,2019-04-23 16:00:32,2019-04-23 16:00:32,0.074s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC02/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901GnUKwvq7K5QQ=="")",Firefox 65.0,,2019-04-23 16:00:32,2019-04-23 16:00:32,0.062s,PASSED
+"click(findTestObject(""Object Repository/Login/TC02/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:00:32,2019-04-23 16:00:32,0.239s,PASSED
+,,,,,,
+Test Cases/Login/TC03 Input invalid username and valid password,Firefox 65.0,,2019-04-23 16:00:32,2019-04-23 16:00:42,9.860s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:00:32,2019-04-23 16:00:37,4.701s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:00:37,2019-04-23 16:00:42,4.683s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC03/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""RICKY1234"")",Firefox 65.0,,2019-04-23 16:00:42,2019-04-23 16:00:42,0.068s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC03/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 65.0,,2019-04-23 16:00:42,2019-04-23 16:00:42,0.063s,PASSED
+"click(findTestObject(""Object Repository/Login/TC03/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:00:42,2019-04-23 16:00:42,0.250s,PASSED
+,,,,,,
+Test Cases/Login/TC04 Input invalid username and invalid password,Firefox 65.0,,2019-04-23 16:00:42,2019-04-23 16:00:50,8.018s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-04-23 16:00:42,2019-04-23 16:00:46,4.437s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 65.0,,2019-04-23 16:00:46,2019-04-23 16:00:50,3.118s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC04/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name""), ""ricky1234"")",Firefox 65.0,,2019-04-23 16:00:50,2019-04-23 16:00:50,0.066s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC04/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password""), ""6/r0/aE9fcumoqDUc6810w=="")",Firefox 65.0,,2019-04-23 16:00:50,2019-04-23 16:00:50,0.063s,PASSED
+"click(findTestObject(""Object Repository/Login/TC04/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action""))",Firefox 65.0,,2019-04-23 16:00:50,2019-04-23 16:00:50,0.250s,PASSED

@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571528</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Product list</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Product list</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Product list</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571538</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = User - 192.168.170.2</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">User - 192.168.170.2</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571539</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571539</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.170.2</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.170.2</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571540</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.0.5.4</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.0.5.4</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571691</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC05 View product list</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC05 View product list</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC05 View product list</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC05 View product list.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:51</date>
+  <millis>1556012571921</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:52</date>
+  <millis>1556012572113</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:42:52</date>
+  <millis>1556012572157</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576216</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 118d2175-41c4-4f98-a066-a9c3a97c8c58</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">118d2175-41c4-4f98-a066-a9c3a97c8c58</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576230</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576231</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576232</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576233</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576234</millis>
+  <sequence>17</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576234</millis>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:42:56</date>
+  <millis>1556012576235</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581013</millis>
+  <sequence>22</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581014</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581014</millis>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581105</millis>
+  <sequence>36</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581106</millis>
+  <sequence>37</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581106</millis>
+  <sequence>38</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581194</millis>
+  <sequence>47</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581195</millis>
+  <sequence>48</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:01</date>
+  <millis>1556012581195</millis>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599342</millis>
+  <sequence>56</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599343</millis>
+  <sequence>57</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Product list/TC05/Page_Swag Labs/input_Epic sadfaceUsername and password do not match any user in this service_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599343</millis>
+  <sequence>58</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC05 View product list</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599343</millis>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC05 View product list</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599347</millis>
+  <sequence>60</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC06 View product detail</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC06 View product detail</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC06 View product detail</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC06 View product detail.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599459</millis>
+  <sequence>62</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:19</date>
+  <millis>1556012599461</millis>
+  <sequence>64</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:20</date>
+  <millis>1556012600642</millis>
+  <sequence>65</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604096</millis>
+  <sequence>67</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 798ab25f-1645-447c-a51e-580b2a70ee29</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">798ab25f-1645-447c-a51e-580b2a70ee29</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604110</millis>
+  <sequence>68</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604111</millis>
+  <sequence>69</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604111</millis>
+  <sequence>70</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604111</millis>
+  <sequence>71</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604112</millis>
+  <sequence>72</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604112</millis>
+  <sequence>73</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:24</date>
+  <millis>1556012604112</millis>
+  <sequence>74</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608738</millis>
+  <sequence>77</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608738</millis>
+  <sequence>78</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608738</millis>
+  <sequence>79</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608798</millis>
+  <sequence>91</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608798</millis>
+  <sequence>92</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608799</millis>
+  <sequence>93</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608850</millis>
+  <sequence>102</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608851</millis>
+  <sequence>103</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:28</date>
+  <millis>1556012608851</millis>
+  <sequence>104</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625348</millis>
+  <sequence>111</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625348</millis>
+  <sequence>112</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625348</millis>
+  <sequence>113</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625695</millis>
+  <sequence>120</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625696</millis>
+  <sequence>121</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Product list/TC06/Page_Swag Labs/Page_Swag Labs/div_Sauce Labs Backpack\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625696</millis>
+  <sequence>122</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC06 View product detail</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625696</millis>
+  <sequence>123</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC06 View product detail</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625699</millis>
+  <sequence>124</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC07 Tap back in product detail page</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC07 Tap back in product detail page</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC07 Tap back in product detail page</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC07 Tap back in product detail page.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625793</millis>
+  <sequence>126</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:45</date>
+  <millis>1556012625796</millis>
+  <sequence>128</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:46</date>
+  <millis>1556012626784</millis>
+  <sequence>129</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629694</millis>
+  <sequence>131</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 5b29f18a-8902-4e11-b835-836749fecefc</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">5b29f18a-8902-4e11-b835-836749fecefc</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629701</millis>
+  <sequence>132</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629701</millis>
+  <sequence>133</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629702</millis>
+  <sequence>134</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629702</millis>
+  <sequence>135</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629702</millis>
+  <sequence>136</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629703</millis>
+  <sequence>137</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:49</date>
+  <millis>1556012629703</millis>
+  <sequence>138</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632775</millis>
+  <sequence>141</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632775</millis>
+  <sequence>142</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632776</millis>
+  <sequence>143</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632837</millis>
+  <sequence>155</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632837</millis>
+  <sequence>156</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632837</millis>
+  <sequence>157</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632883</millis>
+  <sequence>166</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632884</millis>
+  <sequence>167</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:52</date>
+  <millis>1556012632884</millis>
+  <sequence>168</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634562</millis>
+  <sequence>175</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634563</millis>
+  <sequence>176</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634563</millis>
+  <sequence>177</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634864</millis>
+  <sequence>184</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634864</millis>
+  <sequence>185</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/div_Sauce Labs Backpack\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634864</millis>
+  <sequence>186</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/button_- Back\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634952</millis>
+  <sequence>193</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC07/Page_Swag Labs/button_- Back&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634952</millis>
+  <sequence>194</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Product list/TC07/Page_Swag Labs/button_- Back\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634952</millis>
+  <sequence>195</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC07 Tap back in product detail page</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634952</millis>
+  <sequence>196</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC07 Tap back in product detail page</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:54</date>
+  <millis>1556012634955</millis>
+  <sequence>197</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC08 Sort product list by name (A to Z)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC08 Sort product list by name (A to Z)</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC08 Sort product list by name (A to Z)</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC08 Sort product list by name (A to Z).tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:55</date>
+  <millis>1556012635052</millis>
+  <sequence>199</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:55</date>
+  <millis>1556012635054</millis>
+  <sequence>201</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:56</date>
+  <millis>1556012636346</millis>
+  <sequence>202</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639756</millis>
+  <sequence>204</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = d71c1e73-6629-4630-ae4a-2ac233677629</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">d71c1e73-6629-4630-ae4a-2ac233677629</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639767</millis>
+  <sequence>205</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639767</millis>
+  <sequence>206</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639767</millis>
+  <sequence>207</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639768</millis>
+  <sequence>208</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639768</millis>
+  <sequence>209</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639768</millis>
+  <sequence>210</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:43:59</date>
+  <millis>1556012639768</millis>
+  <sequence>211</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644051</millis>
+  <sequence>214</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644052</millis>
+  <sequence>215</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644052</millis>
+  <sequence>216</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644111</millis>
+  <sequence>228</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644112</millis>
+  <sequence>229</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644112</millis>
+  <sequence>230</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644155</millis>
+  <sequence>239</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644155</millis>
+  <sequence>240</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:04</date>
+  <millis>1556012644155</millis>
+  <sequence>241</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662047</millis>
+  <sequence>248</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662047</millis>
+  <sequence>249</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC08/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662047</millis>
+  <sequence>250</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC08 Sort product list by name (A to Z)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662047</millis>
+  <sequence>251</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC08 Sort product list by name (A to Z)</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662049</millis>
+  <sequence>252</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC09 Sort product list by name (Z to A)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC09 Sort product list by name (Z to A)</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC09 Sort product list by name (Z to A)</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC09 Sort product list by name (Z to A).tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662152</millis>
+  <sequence>254</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:22</date>
+  <millis>1556012662154</millis>
+  <sequence>256</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:23</date>
+  <millis>1556012663357</millis>
+  <sequence>257</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666820</millis>
+  <sequence>259</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 630ee22d-b6ed-48cd-a7a8-b3d82c5f92d4</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">630ee22d-b6ed-48cd-a7a8-b3d82c5f92d4</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666831</millis>
+  <sequence>260</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666831</millis>
+  <sequence>261</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666832</millis>
+  <sequence>262</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666832</millis>
+  <sequence>263</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666832</millis>
+  <sequence>264</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666833</millis>
+  <sequence>265</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:26</date>
+  <millis>1556012666833</millis>
+  <sequence>266</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669519</millis>
+  <sequence>269</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669520</millis>
+  <sequence>270</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669520</millis>
+  <sequence>271</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669750</millis>
+  <sequence>278</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669751</millis>
+  <sequence>279</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669751</millis>
+  <sequence>280</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669807</millis>
+  <sequence>292</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669808</millis>
+  <sequence>293</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:29</date>
+  <millis>1556012669808</millis>
+  <sequence>294</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:30</date>
+  <millis>1556012670030</millis>
+  <sequence>301</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:30</date>
+  <millis>1556012670030</millis>
+  <sequence>302</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/div_Password for all users                secret_sauce\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:30</date>
+  <millis>1556012670030</millis>
+  <sequence>303</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:30</date>
+  <millis>1556012670072</millis>
+  <sequence>312</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:30</date>
+  <millis>1556012670072</millis>
+  <sequence>313</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:30</date>
+  <millis>1556012670072</millis>
+  <sequence>314</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:31</date>
+  <millis>1556012671893</millis>
+  <sequence>321</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:31</date>
+  <millis>1556012671893</millis>
+  <sequence>322</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:31</date>
+  <millis>1556012671893</millis>
+  <sequence>323</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)\&amp;quot;), \&amp;quot;za\&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672211</millis>
+  <sequence>332</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;za&amp;apos; are selected in object &amp;apos;Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)&amp;apos;  using regular expression</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672211</millis>
+  <sequence>333</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue(findTestObject(\&amp;quot;Object Repository/Product list/TC09/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)\&amp;quot;), \&amp;quot;za\&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672211</millis>
+  <sequence>334</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC09 Sort product list by name (Z to A)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672211</millis>
+  <sequence>335</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC09 Sort product list by name (Z to A)</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672213</millis>
+  <sequence>336</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC10 Sort product list by price (Low to High)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC10 Sort product list by price (Low to High)</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC10 Sort product list by price (Low to High)</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC10 Sort product list by price (Low to High).tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672300</millis>
+  <sequence>338</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:32</date>
+  <millis>1556012672302</millis>
+  <sequence>340</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:33</date>
+  <millis>1556012673391</millis>
+  <sequence>341</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676798</millis>
+  <sequence>343</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 774266f1-41c9-46d2-a50b-7f5553ec3095</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">774266f1-41c9-46d2-a50b-7f5553ec3095</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676813</millis>
+  <sequence>344</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676813</millis>
+  <sequence>345</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676813</millis>
+  <sequence>346</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676814</millis>
+  <sequence>347</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676814</millis>
+  <sequence>348</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676814</millis>
+  <sequence>349</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:36</date>
+  <millis>1556012676814</millis>
+  <sequence>350</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:39</date>
+  <millis>1556012679960</millis>
+  <sequence>353</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:39</date>
+  <millis>1556012679960</millis>
+  <sequence>354</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:39</date>
+  <millis>1556012679960</millis>
+  <sequence>355</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680184</millis>
+  <sequence>362</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680184</millis>
+  <sequence>363</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680184</millis>
+  <sequence>364</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680249</millis>
+  <sequence>376</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680250</millis>
+  <sequence>377</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680250</millis>
+  <sequence>378</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680471</millis>
+  <sequence>385</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680471</millis>
+  <sequence>386</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/div_Password for all users                secret_sauce\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680471</millis>
+  <sequence>387</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680517</millis>
+  <sequence>396</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680517</millis>
+  <sequence>397</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:40</date>
+  <millis>1556012680517</millis>
+  <sequence>398</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682030</millis>
+  <sequence>405</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682030</millis>
+  <sequence>406</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682030</millis>
+  <sequence>407</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)\&amp;quot;), \&amp;quot;lohi\&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682367</millis>
+  <sequence>416</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;lohi&amp;apos; are selected in object &amp;apos;Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)&amp;apos;  using regular expression</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682367</millis>
+  <sequence>417</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue(findTestObject(\&amp;quot;Object Repository/Product list/TC10/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)\&amp;quot;), \&amp;quot;lohi\&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682367</millis>
+  <sequence>418</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC10 Sort product list by price (Low to High)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682368</millis>
+  <sequence>419</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC10 Sort product list by price (Low to High)</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682369</millis>
+  <sequence>420</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product list/TC11 Sort product list by price (High to Low)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Product list/TC11 Sort product list by price (High to Low)</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Product list/TC11 Sort product list by price (High to Low)</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\SwagLabs\\Test Cases\\Product list\\TC11 Sort product list by price (High to Low).tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682478</millis>
+  <sequence>422</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:42</date>
+  <millis>1556012682480</millis>
+  <sequence>424</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:43</date>
+  <millis>1556012683887</millis>
+  <sequence>425</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687811</millis>
+  <sequence>427</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 572ee05e-2706-4c9d-bf21-3d09929148f0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">572ee05e-2706-4c9d-bf21-3d09929148f0</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687819</millis>
+  <sequence>428</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 65.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 65.0</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687819</millis>
+  <sequence>429</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687819</millis>
+  <sequence>430</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687820</millis>
+  <sequence>431</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687820</millis>
+  <sequence>432</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687820</millis>
+  <sequence>433</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:47</date>
+  <millis>1556012687820</millis>
+  <sequence>434</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690671</millis>
+  <sequence>437</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.saucedemo.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690672</millis>
+  <sequence>438</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://www.saucedemo.com/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690672</millis>
+  <sequence>439</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690896</millis>
+  <sequence>446</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690897</millis>
+  <sequence>447</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690897</millis>
+  <sequence>448</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690955</millis>
+  <sequence>460</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;standard_user&amp;apos; is set on object &amp;apos;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690956</millis>
+  <sequence>461</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name\&amp;quot;), \&amp;quot;standard_user\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:50</date>
+  <millis>1556012690956</millis>
+  <sequence>462</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:51</date>
+  <millis>1556012691178</millis>
+  <sequence>469</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:51</date>
+  <millis>1556012691178</millis>
+  <sequence>470</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/div_Password for all users                secret_sauce\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:51</date>
+  <millis>1556012691178</millis>
+  <sequence>471</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-04-23T16:44:51</date>
+  <millis>1556012691219</millis>
+  <sequence>480</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:51</date>
+  <millis>1556012691220</millis>
+  <sequence>481</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password\&amp;quot;), \&amp;quot;qcu24s4901FyWDTwXGr6XA==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:44:51</date>
+  <millis>1556012691220</millis>
+  <sequence>482</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700429</millis>
+  <sequence>489</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700429</millis>
+  <sequence>490</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700429</millis>
+  <sequence>491</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)\&amp;quot;), \&amp;quot;hilo\&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700784</millis>
+  <sequence>500</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;hilo&amp;apos; are selected in object &amp;apos;Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)&amp;apos;  using regular expression</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700784</millis>
+  <sequence>501</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue(findTestObject(\&amp;quot;Object Repository/Product list/TC11/Page_Swag Labs/select_Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)\&amp;quot;), \&amp;quot;hilo\&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700784</millis>
+  <sequence>502</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product list/TC11 Sort product list by price (High to Low)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:45:00</date>
+  <millis>1556012700785</millis>
+  <sequence>503</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product list/TC11 Sort product list by price (High to Low)</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-23T16:45:01</date>
+  <millis>1556012701879</millis>
+  <sequence>504</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Product list</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

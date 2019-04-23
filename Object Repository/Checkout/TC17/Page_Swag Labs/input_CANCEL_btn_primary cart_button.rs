@@ -3,7 +3,7 @@
    <description></description>
    <name>input_CANCEL_btn_primary cart_button</name>
    <tag></tag>
-   <elementGuidId>b5036a23-3575-41b2-ad0a-b101d84e527c</elementGuidId>
+   <elementGuidId>1a5332ea-90eb-4b5c-8770-ee4946f398ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

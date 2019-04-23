@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Password for all users                secret_sauce</name>
    <tag></tag>
-   <elementGuidId>63270bd9-2f7a-4336-a8e7-8b49ba69dc00</elementGuidId>
+   <elementGuidId>668a5d01-04dc-4cf0-a8a5-4afed63c2057</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

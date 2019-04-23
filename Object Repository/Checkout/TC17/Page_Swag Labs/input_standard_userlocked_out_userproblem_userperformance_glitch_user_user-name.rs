@@ -3,7 +3,7 @@
    <description></description>
    <name>input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name</name>
    <tag></tag>
-   <elementGuidId>3a771466-42d1-467e-b052-7b1b82b5cf7a</elementGuidId>
+   <elementGuidId>aefeeb56-fb9f-4797-8e41-1e5bc6e4af02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

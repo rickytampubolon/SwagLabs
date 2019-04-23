@@ -17,36 +17,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/div_Accepted usernames are (1)'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)'), 
+WebUI.setText(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)'), 
     'standard_user')
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/div_Password for all users                secret_sauce (1)'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/div_Password for all users                secret_sauce (1)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)'), 
     'qcu24s4901FyWDTwXGr6XA==')
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/button_ADD TO CART (1)'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/button_ADD TO CART (1)'))
 
 WebUI.navigateToUrl('https://www.saucedemo.com/cart.html')
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/button_REMOVE'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/a_CHECKOUT'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/a_CHECKOUT'))
-
-WebUI.setText(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_Checkout Your Information_first-name'), 
+WebUI.setText(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_Checkout Your Information_first-name'), 
     'Ricky')
 
-WebUI.setText(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_Checkout Your Information_last-name'), 
+WebUI.setText(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_Checkout Your Information_last-name'), 
     'Halomoan')
 
-WebUI.setText(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_Checkout Your Information_postal-code'), 
-    '22381')
+WebUI.setText(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_Checkout Your Information_postal-code'), 
+    '22345')
 
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/input_CANCEL_btn_primary cart_button'))
-
-WebUI.click(findTestObject('Object Repository/Checkout/TC21/Page_Swag Labs/a_FINISH'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC17/Page_Swag Labs/input_CANCEL_btn_primary cart_button'))
 

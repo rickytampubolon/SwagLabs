@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Checkout Your Information_first-name</name>
    <tag></tag>
-   <elementGuidId>0f188df4-64d5-4463-9234-70cac00028c3</elementGuidId>
+   <elementGuidId>c620feed-4e2d-4d50-bd83-b06f8bc905a3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -59,7 +59,7 @@
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>r</value>
+      <value>R</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -3,7 +3,7 @@
    <description></description>
    <name>a_CHECKOUT</name>
    <tag></tag>
-   <elementGuidId>39c3489b-00bc-4d0f-8b05-ac0184a84081</elementGuidId>
+   <elementGuidId>7dcca23b-7691-463d-ae5b-36d60ace1e34</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

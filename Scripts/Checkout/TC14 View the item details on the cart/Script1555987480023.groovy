@@ -17,21 +17,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/div_Accepted usernames are              standard_user              locked_out_user              problem_user              performance_glitch_user (1)'))
 
-WebUI.setText(findTestObject('null'), 
+WebUI.setText(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_user-name (1)'), 
     'standard_user')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/div_Password for all users                secret_sauce (1)'))
 
-WebUI.setEncryptedText(findTestObject('null'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_password (1)'), 
     'qcu24s4901FyWDTwXGr6XA==')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/input_standard_userlocked_out_userproblem_userperformance_glitch_user_btn_action (1)'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/button_ADD TO CART (1)'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Checkout/TC14/Page_Swag Labs/div_Sauce Labs Backpack'))
 
